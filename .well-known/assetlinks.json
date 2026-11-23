@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.adeccooffice.hub",
+      "sha256_cert_fingerprints": [
+        "6C:F8:D2:DD:F9:7D:66:B4:8C:5D:41:10:67:69:AF:A2:AD:3D:F5:DB:31:A8:1C:55:1E:F2:80:8B:82:26:D7:01"
+      ]
+    }
+  }
+]
